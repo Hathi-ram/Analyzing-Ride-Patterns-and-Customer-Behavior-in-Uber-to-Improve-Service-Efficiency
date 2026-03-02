@@ -23,7 +23,7 @@ The dataset contains anonymized Uber ride information with the following key att
 | HOUR, DAY, MONTH | Extracted time-based features |
 | SPEED | Calculated (Miles / Hour) |
 
-### Data Source Justification
+## Data Source Justification
 The dataset used here is an educational Uber-style dataset, designed to replicate real ride patterns.  
 Although it is not from Uber's internal systems, it follows real-world structure, allowing complete data science analysis including:
 
