@@ -40,13 +40,13 @@ This makes the dataset suitable for academic learning and project demonstration.
 ##  Data Preprocessing Steps
 The following steps were performed:
 
-✔ Handling missing values  
-✔ Removing duplicates  
-✔ Fixing invalid and unrealistic values  
-✔ Normalizing speed values  
-✔ Removing outliers (3-sigma rule)  
-✔ Creating new engineered features  
-✔ Label Encoding of categorical data  
+Handling missing values  
+Removing duplicates  
+Fixing invalid and unrealistic values  
+Normalizing speed values  
+Removing outliers (3-sigma rule)  
+Creating new engineered features  
+Label Encoding of categorical data  
 
 ---
 
