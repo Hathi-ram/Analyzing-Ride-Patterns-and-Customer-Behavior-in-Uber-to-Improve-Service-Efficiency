@@ -3,7 +3,7 @@
 
 ---
 
-##  Project Overview
+###  Project Overview
 This project performs a full Data Science workflow on an Uber ride dataset to understand customer behavior, ride patterns, trip characteristics, and distance profiles.  
 
 We explore the dataset through **Exploratory Data Analysis (EDA)**, perform **hypothesis testing**, and develop and compare **two machine learning models** to predict trip distance (Miles).  
