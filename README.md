@@ -138,5 +138,4 @@ This limitation is discussed clearly in the conclusion.
 
 ---
 
-##  Project Folder Structure
 
