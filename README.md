@@ -1,4 +1,4 @@
-###  Uber Ride Data Analysis & Machine Learning Model Comparison  
+##  Uber Ride Data Analysis & Machine Learning Model Comparison  
 ### **Analyzing Ride Patterns and Customer Behavior in Uber**
 
 ---
